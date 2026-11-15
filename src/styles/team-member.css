@@ -1,0 +1,18 @@
+.member {
+  text-align: center;
+}
+
+.member img {
+  width: 140px;
+  height: 140px;
+  margin: 0 auto 1rem;
+  border-radius: 50%;
+}
+
+.member h3 {
+  font-size: 1.1rem;
+}
+
+.member p {
+  color: var(--ink-soft);
+}
